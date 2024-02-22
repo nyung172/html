@@ -32,6 +32,7 @@ body {
 .wrapper {
     width: 100%;
     height: 100px;
+    background: linear-gradient(to top, #d4d3d3, #ebe0e0);
     /* background: linear-gradient(to top, #6b0e0e, #710b0b); */
 }
 
@@ -157,7 +158,7 @@ nav>ul>li:hover>a {
     display: inline-block;
     font-size: 36px;
     font-weight: 700;
-    padding: 20px 0 0 900px;
+    padding: 20px 0 0 30px;
     color: #888;
     background-color: rgba(0, 0, 0, 0.6);
 }
@@ -282,7 +283,7 @@ h2 {
 .footer {
     width: 100%;
     height: 100px;
-    background: linear-gradient(to top, #3d3d3d, #493636);
+    background: linear-gradient(to top, #8f8c8c 10%, #aa9c9c);
     /* background: linear-gradient(to top, #6b0e0e, #710b0b); */
 }
 
